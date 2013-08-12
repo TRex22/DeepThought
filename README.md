@@ -6,7 +6,7 @@ This was a bot I made for The Wits 2013 Robocode event. I really started it at 4
 Note
 =====
 
-I made this with eclipse but seem to have misplaced my source code.
+I made this with eclipse but I seem to have misplaced my source code.
 This is the version I submitted online to my university and so I was able to recover that Java file.
 
 This is quite a badly coded AI.
